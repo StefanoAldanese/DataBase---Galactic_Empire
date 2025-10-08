@@ -1,5 +1,9 @@
 # README - Galactic Empire Database
 
+## Exam Project
+
+This repository contains my final project for the Database Systems course, taken during my second year in the Computer Science degree program at the University of Naples Parthenope. The project was awarded full score of 7 points
+
 ## Installation and Configuration
 
 For proper functionality and database creation, carefully follow the steps below.
@@ -90,4 +94,5 @@ To drop the entire database, execute the `distruzioneDDL.sql` script while logge
 | Administrator          | amministratore         | admin123       |
 | Emperor                | imperatore             | impero4ever    |
 | General                | generale               | hateyoda       |
+
 | Corporation Executive  | dirigente_corporation  | fatturato      |
