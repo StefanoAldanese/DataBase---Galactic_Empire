@@ -4,6 +4,12 @@
 
 This repository contains my final project for the Database Systems course, taken during my second year in the Computer Science degree program at the University of Naples Parthenope. The project was awarded full score of 7 points
 
+---
+
+**Developed by:**
+- Stefano Aldanese Emanuele
+- Donato D'Ambrosio
+
 ## Installation and Configuration
 
 For proper functionality and database creation, carefully follow the steps below.
@@ -48,14 +54,6 @@ The database simulates a **Galactic Empire** and includes:
 
 ---
 
-## Creators
-
-**Developed by:**
-- Stefano Aldanese Emanuele
-- Donato D'Ambrosio
-
----
-
 ## Testing and Debugging
 
 The `scripts/` folder also includes:
@@ -96,3 +94,4 @@ To drop the entire database, execute the `distruzioneDDL.sql` script while logge
 | General                | generale               | hateyoda       |
 
 | Corporation Executive  | dirigente_corporation  | fatturato      |
+
