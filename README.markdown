@@ -92,6 +92,6 @@ To drop the entire database, execute the `distruzioneDDL.sql` script while logge
 | Administrator          | amministratore         | admin123       |
 | Emperor                | imperatore             | impero4ever    |
 | General                | generale               | hateyoda       |
-
 | Corporation Executive  | dirigente_corporation  | fatturato      |
+
 
