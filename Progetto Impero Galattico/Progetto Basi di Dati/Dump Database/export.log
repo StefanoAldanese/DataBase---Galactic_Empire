@@ -1,0 +1,60 @@
+;;; 
+Export: Release 21.0.0.0.0 - Production on Wed Jul 9 18:24:38 2025
+Version 21.3.0.0.0
+
+Copyright (c) 1982, 2021, Oracle and/or its affiliates.  All rights reserved.
+;;; 
+Connected to: Oracle Database 21c Express Edition Release 21.0.0.0.0 - Production
+Starting "AMMINISTRATORE"."SYS_EXPORT_SCHEMA_01":  amministratore/********@//localhost:1521/XEPDB1 directory=DATA_PUMP_DIR dumpfile=database_dump.dmp logfile=export.log schemas=AMMINISTRATORE 
+Processing object type SCHEMA_EXPORT/TABLE/TABLE_DATA
+Processing object type SCHEMA_EXPORT/TABLE/INDEX/STATISTICS/INDEX_STATISTICS
+Processing object type SCHEMA_EXPORT/TABLE/STATISTICS/TABLE_STATISTICS
+Processing object type SCHEMA_EXPORT/STATISTICS/MARKER
+Processing object type SCHEMA_EXPORT/PRE_SCHEMA/PROCACT_SCHEMA
+Processing object type SCHEMA_EXPORT/TABLE/TABLE
+Processing object type SCHEMA_EXPORT/TABLE/GRANT/OWNER_GRANT/OBJECT_GRANT
+Processing object type SCHEMA_EXPORT/TABLE/COMMENT
+Processing object type SCHEMA_EXPORT/FUNCTION/FUNCTION
+Processing object type SCHEMA_EXPORT/PROCEDURE/PROCEDURE
+Processing object type SCHEMA_EXPORT/PROCEDURE/GRANT/OWNER_GRANT/OBJECT_GRANT
+Processing object type SCHEMA_EXPORT/FUNCTION/ALTER_FUNCTION
+Processing object type SCHEMA_EXPORT/PROCEDURE/ALTER_PROCEDURE
+Processing object type SCHEMA_EXPORT/VIEW/VIEW
+Processing object type SCHEMA_EXPORT/VIEW/GRANT/OWNER_GRANT/OBJECT_GRANT
+Processing object type SCHEMA_EXPORT/TABLE/INDEX/INDEX
+Processing object type SCHEMA_EXPORT/TABLE/CONSTRAINT/CONSTRAINT
+Processing object type SCHEMA_EXPORT/TABLE/CONSTRAINT/REF_CONSTRAINT
+Processing object type SCHEMA_EXPORT/TABLE/TRIGGER
+. . exported "AMMINISTRATORE"."ARMI"                     6.664 KB       7 rows
+. . exported "AMMINISTRATORE"."COMBATTE1"                6.703 KB       9 rows
+. . exported "AMMINISTRATORE"."COMBATTE2"                7.164 KB      10 rows
+. . exported "AMMINISTRATORE"."CORPORATION"              6.960 KB      15 rows
+. . exported "AMMINISTRATORE"."CORPORATION_BELLICA"      5.812 KB      13 rows
+. . exported "AMMINISTRATORE"."CORPORATION_MINERARIA"    5.546 KB       1 rows
+. . exported "AMMINISTRATORE"."CORPORATION_TRASPORTI"    5.179 KB       5 rows
+. . exported "AMMINISTRATORE"."CRISTALLI_DI_PLUTONIO"    5.546 KB       2 rows
+. . exported "AMMINISTRATORE"."DIVISIONE_IMPERIALE"      7.070 KB      18 rows
+. . exported "AMMINISTRATORE"."E_PRESIDIATO"             8.695 KB       9 rows
+. . exported "AMMINISTRATORE"."FERRO_TITANICO"           5.992 KB       3 rows
+. . exported "AMMINISTRATORE"."FINANZIA"                 7.007 KB       5 rows
+. . exported "AMMINISTRATORE"."FLOTTA"                   6.945 KB      15 rows
+. . exported "AMMINISTRATORE"."GRUPPO_RIBELLE"           6.226 KB       9 rows
+. . exported "AMMINISTRATORE"."GUERRA_CONQUISTA"         6.781 KB      10 rows
+. . exported "AMMINISTRATORE"."NANOSABBIA_DI_DUNE_PROFONDE"  5.562 KB       2 rows
+. . exported "AMMINISTRATORE"."NAVI"                     6.851 KB      11 rows
+. . exported "AMMINISTRATORE"."NAVI_DA_COMBATTIMENTO"    6.031 KB       3 rows
+. . exported "AMMINISTRATORE"."NAVI_MERCANTILI"          6.093 KB       5 rows
+. . exported "AMMINISTRATORE"."OCCUPAZIONE"              7.664 KB       9 rows
+. . exported "AMMINISTRATORE"."PARTITA_DI_MINERALI"      6.664 KB       7 rows
+. . exported "AMMINISTRATORE"."PIANETA"                      7 KB      21 rows
+. . exported "AMMINISTRATORE"."SISTEMA_PLANETARIO"       7.117 KB      15 rows
+. . exported "AMMINISTRATORE"."SOTH"                     6.546 KB       6 rows
+. . exported "AMMINISTRATORE"."STAZIONAMENTO"            8.132 KB       9 rows
+. . exported "AMMINISTRATORE"."VIAGGIO"                  10.32 KB       5 rows
+. . exported "AMMINISTRATORE"."VIENE_TRASPORTATO_ATTRAVERSO_ARMI"  7.531 KB       5 rows
+. . exported "AMMINISTRATORE"."VIENE_TRASPORTATO_ATTRAVERSO_MINERALI"  6.562 KB       5 rows
+Master table "AMMINISTRATORE"."SYS_EXPORT_SCHEMA_01" successfully loaded/unloaded
+******************************************************************************
+Dump file set for AMMINISTRATORE.SYS_EXPORT_SCHEMA_01 is:
+  C:\APP\ALDAN\PRODUCT\21C\ADMIN\XE\DPDUMP\A2483A1F330A4302B5D4A051A1006653\DATABASE_DUMP.DMP
+Job "AMMINISTRATORE"."SYS_EXPORT_SCHEMA_01" successfully completed at Wed Jul 9 18:25:17 2025 elapsed 0 00:00:35
