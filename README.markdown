@@ -1,5 +1,10 @@
 # README - Galactic Empire Database
 
+<img width="1270" height="334" alt="Screenshot 2025-10-16 094727" src="https://github.com/user-attachments/assets/c11a9c75-e946-4092-8730-a8ee8c301c95" />
+*The requirements analysis was carried out by watching 100 hours of StarCraft esports. :)*
+
+
+
 ## Exam Project
 
 This repository contains my final project for the Database Systems course, taken during my second year in the Computer Science degree program at the University of Naples Parthenope. The project was awarded full score of 7 points
@@ -93,5 +98,6 @@ To drop the entire database, execute the `distruzioneDDL.sql` script while logge
 | Emperor                | imperatore             | impero4ever    |
 | General                | generale               | hateyoda       |
 | Corporation Executive  | dirigente_corporation  | fatturato      |
+
 
 
